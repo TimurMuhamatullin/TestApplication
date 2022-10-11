@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "url": {
+      "defaultValue": {
+        "value": "https://ya.ru/"
+      },
+      "valueType": "STRING"
+    }
+  },
+  "version": {
+    "versionNumber": "3",
+    "updateTime": "2022-10-04T20:12:48.359912Z",
+    "updateUser": {
+      "email": "79625258307tm@gmail.com"
+    },
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  }
+}
