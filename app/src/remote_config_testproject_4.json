@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "url": {
+      "defaultValue": {
+        "value": "https://www.google.ru/webhp?tab=rw"
+      },
+      "valueType": "STRING"
+    }
+  },
+  "version": {
+    "versionNumber": "4",
+    "updateTime": "2022-10-04T20:16:51.887758Z",
+    "updateUser": {
+      "email": "79625258307tm@gmail.com"
+    },
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  }
+}
